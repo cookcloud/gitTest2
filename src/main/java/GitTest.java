@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("远程master第一次更新");
         System.out.println("远程master第二次更新");
         System.out.println("远程master第三次更新");
+        System.out.println("new1分支第二次更新");
     }
 }
