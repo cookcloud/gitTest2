@@ -1,4 +1,4 @@
-public Class {
+public class  Master{
      public static void main(String[] args){
         System.out.println("远程主分支对Master文件更改，测试右下角的origin/master是fetch下的临时暂存分支");
      }
